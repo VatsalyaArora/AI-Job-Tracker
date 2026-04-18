@@ -11,3 +11,5 @@ An automated job search pipeline that scrapes AI Engineer roles and grades them 
 1. Scrapes jobs from specified regions (e.g., Milan, Munich).
 2. Sends the JD to a local LLM to score the match based on my C++ and CV background.
 3. Automatically updates a Google Sheet for morning review.
+
+To run this, obtain a credentials_dummydata.json from the Google Cloud Console and place it in the root folder.
